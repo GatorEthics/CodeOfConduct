@@ -22,7 +22,9 @@ jobs:
           STYLE_FILE: https://raw.githubusercontent.com/bewuethr/dotfiles/master/.config/mdl/style.rb
         run: curl "$STYLE_FILE" > .github/workflows/style.rb
 
-      - name: Run the Markdown linter
-        uses: bewuethr/mdl-action@v1
-        with:
-          style-file: .github/workflows/style.rb
+      #- name: Run the Markdown linter
+      #  uses: bewuethr/mdl-action@v1
+      #  with:
+      #    style-file: .github/workflows/style.rb
+      - name: Run markdown linting
+        uses: actionshub/markdownlint@main
