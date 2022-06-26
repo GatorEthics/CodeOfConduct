@@ -150,7 +150,7 @@ This guideline for infractions is separate from the college's Code guidelines. W
 - _Infractions shall be imposed at three different levels of severity. Technical leaders and instructor will be keeping track of infractions._
 
 - Level I: TODO: add a description
-  
+
   - TODO: Add bullet points for level I infraction.
 
 - Level II: TODO: add a description
