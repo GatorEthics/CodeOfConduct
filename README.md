@@ -44,11 +44,11 @@ In this activity all class members work in the same [Code of Conduct repository]
 
 ### Tasks
 
-For this assignment, your task is to collaborate with the members of your class to write a full-featured code of conduct, using the GitHub Flow model to facilitate collaboration. You should first read the [ACM's Code of Ethics](https://www.acm.org/code-of-ethics) that all computer scientists are expected to follow. Using this broad standard as the baseline, you should then describe specific student and instructor behaviors that are deemed to be acceptable and unacceptable in this course. Make sure that you explain how the class will handle infractions of the conduct guide. 
+For this assignment, your task is to collaborate with the members of your class to write a full-featured code of conduct, using the GitHub Flow model to facilitate collaboration. You should first read the [ACM's Code of Ethics](https://www.acm.org/code-of-ethics) that all computer scientists are expected to follow. Using this broad standard as the baseline, you should then describe specific student and instructor behaviors that are deemed to be acceptable and unacceptable in this course. Make sure that you explain how the class will handle infractions of the conduct guide.
 <!---
 Students are also invited to
 review the [Codes of Values from MIT's Course on Product Engineering
-Processes](http://web.mit.edu/2.009/www/codeOfEthics/codeOfEthics.html). 
+Processes](http://web.mit.edu/2.009/www/codeOfEthics/codeOfEthics.html).
 -->
 
 Please note that you should use repository forks or branches and pull requests to ensure that your work is ultimately added to the repository's master branch. When you follow the GitHub Flow model you should create a separate "feature branch" in your GitHub repository that contains additions or changes that you want to make to the code of conduct. Using appropriate commit messages, you will repeatedly commit to this branch until you have finished the feature. Now, you will use GitHub to raise a pull request, tagging the course instructor and the student technical leaders and asking them review your work. Once you have resolved all of the concerns raised by the reviewers of your pull request and it is approved, a member of your team should merge it into the master branch of the GitHub repository. At this point, you can delete the feature branch from the repository and start working on the next task associated with completing this project.
